@@ -1,6 +1,9 @@
 # Heart Keychain
 Project for HC Stasis Program.
 
+![Final result](/Media/final.gif)
+![Board after milling](/Media/board_after_mill.jpeg)
+
 ## BOM
 | # | Sourced | References  | Value        | Footprint                                                     | Quantity |
 |---|---------|-------------|--------------|---------------------------------------------------------------|----------|
