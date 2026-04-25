@@ -1,0 +1,10 @@
+# Heart Keychain
+Project for HC Stasis Program.
+
+## BOM
+| # | Sourced | References  | Value        | Footprint                                                     | Quantity |
+|---|---------|-------------|--------------|---------------------------------------------------------------|----------|
+| 1 |         | R1, R2, R3  | R_US         | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal              | 3        |
+| 2 |         | D1, D2, D3  | LED          | LED_D3.0mm                                                    | 3        |
+| 3 |         | SW1         | SW_Push      | SW_PUSH_6mm_H5mm                                              | 1        |
+| 4 |         | BT1         | Battery_Cell | BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032                     | 1        |
