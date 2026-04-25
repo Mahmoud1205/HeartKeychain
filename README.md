@@ -1,6 +1,8 @@
 # Heart Keychain
 Project for HC Stasis Program.
 
+I made this keychain as a gift to someone, I wanted to make it as a PCB because I was finally confident in my PCB design and fabrication skills after my progress in the [Athan Lamp project](https://github.com/Mahmoud1205/AthanLamp).
+
 ![Final result](/Media/final.gif)
 ![Board after milling](/Media/board_after_mill.jpeg)
 
